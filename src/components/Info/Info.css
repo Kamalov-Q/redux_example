@@ -1,0 +1,7 @@
+.info__container {
+  display: flex;
+  align-items: center;
+  background-color: yellowgreen;
+  justify-content: center;
+  padding-block: 20px;
+}

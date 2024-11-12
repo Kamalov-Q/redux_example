@@ -1,0 +1,26 @@
+.update__container {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 84.3dvh;
+}
+.update__form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.update__input {
+  padding: 10px 20px;
+}
+.update__btn {
+  padding: 10px 15px;
+  background-color: green;
+  color: white;
+  border: none;
+}
+
+.update__form__title {
+    font-size: 25px;
+    color: white;
+}

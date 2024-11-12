@@ -1,0 +1,10 @@
+.profile__container {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+.profile__link {
+    text-decoration: none;
+    color: black;
+}

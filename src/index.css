@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main__container {
+  display: flex;
+}
+.update {
+  flex: 2;
+  background-color: rgb(69, 72, 160);
+}
+.sidebar {
+  display: flex;
+  flex: 1;
+  gap: 20px;
+  flex-direction: column;
+}
+.user {
+  font-weight: bolder;
+  text-indent: 5px;
+}
